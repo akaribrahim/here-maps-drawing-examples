@@ -5,7 +5,7 @@ import PolygonDrawComponent from './pages/PolygonDraw';
 
 function App() {
    return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
          <Routes>
             <Route index path="/" element={<MapComponent />} />
             <Route path="polygondraw/*" element={<PolygonDrawComponent />} />
