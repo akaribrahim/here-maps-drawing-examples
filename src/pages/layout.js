@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
                      variant="h6"
                      noWrap
                      component="a"
-                     href="/"
+                     href="/here-maps-drawing-examples"
                      sx={{
                         mr: 2,
                         display: { xs: 'none', md: 'flex' },
