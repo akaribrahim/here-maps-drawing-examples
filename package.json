@@ -1,6 +1,5 @@
 {
    "name": "here-maps-drawing-examples",
-   "homepage": "https://akaribrahim.github.io/here-maps-drawing-examples",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
