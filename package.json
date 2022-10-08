@@ -1,6 +1,6 @@
 {
    "name": "here-maps-drawing-examples",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "private": true,
    "dependencies": {
       "@akaribrahim/here-maps-drawing": "^0.0.16",
