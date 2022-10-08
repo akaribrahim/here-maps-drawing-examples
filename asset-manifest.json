@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/here-maps-drawing-examples/static/css/main.86def012.chunk.css",
-    "main.js": "/here-maps-drawing-examples/static/js/main.a71e0812.chunk.js",
-    "main.js.map": "/here-maps-drawing-examples/static/js/main.a71e0812.chunk.js.map",
+    "main.js": "/here-maps-drawing-examples/static/js/main.3fc497dd.chunk.js",
+    "main.js.map": "/here-maps-drawing-examples/static/js/main.3fc497dd.chunk.js.map",
     "runtime-main.js": "/here-maps-drawing-examples/static/js/runtime-main.d24f7695.js",
     "runtime-main.js.map": "/here-maps-drawing-examples/static/js/runtime-main.d24f7695.js.map",
     "static/css/2.bc204eb6.chunk.css": "/here-maps-drawing-examples/static/css/2.bc204eb6.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.bc204eb6.chunk.css",
     "static/js/2.284df77e.chunk.js",
     "static/css/main.86def012.chunk.css",
-    "static/js/main.a71e0812.chunk.js"
+    "static/js/main.3fc497dd.chunk.js"
   ]
 }
